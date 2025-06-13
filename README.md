@@ -89,9 +89,7 @@ The dataset consists of store-level historical sales and external influencing fe
 
 ## 📈 Sample Visualization
 
-<p align="center">
-  <img src = "Prediction.HEIC"> width="600" alt="Actual vs Predicted Sales">
-</p>
+
 
 *Scatter Plot: Actual vs Predicted Sales*
 
