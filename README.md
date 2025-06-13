@@ -120,7 +120,7 @@ The dataset consists of store-level historical sales and external influencing fe
 
 I'm Gopika — an aspiring ML Engineer / Full-Stack Developer. I enjoy solving problems using AI, ML, and Data Science.
 
-📩 Let's connect on [LinkedIn]
+📩 Let's connect on [LinkedIn]https://www.linkedin.com/in/gopika-r-abb9a633b
 
 📧 Contact: gopikar075@gmail.com
 
